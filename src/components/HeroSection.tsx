@@ -6,7 +6,7 @@ const HeroSection = () => {
     >
       <div className="absolute inset-0 bg-black/60 z-10"></div>
       <img
-        src="../public/images/banner-cameo.jpg"
+        src="/images/banner-cameo.jpg"
         alt="Coffee shop atmosphere"
         className="absolute inset-0 w-full h-full object-cover"
       />
