@@ -34,7 +34,7 @@ const AboutSection = () => {
           </div>
           <div className="relative h-96 rounded-lg overflow-hidden shadow-xl">
             <img
-              src="../public/images/cameo01.jpg"
+              src="/images/cameo01.jpg"
               alt="Coffee shop interior"
               className="w-full h-full object-cover"
             />

@@ -1,31 +1,31 @@
 const galleryImages = [
   {
-    src: "../public/images/gallery01.jpg",
+    src: "/images/gallery01.jpg",
     alt: "Coffee shop interior",
     caption: "Our Cozy Space",
   },
   {
-    src: "../public/images/gallery02.jpg",
+    src: "/images/gallery02.jpg",
     alt: "Barista making coffee",
     caption: "Crafting Perfection",
   },
   {
-    src: "../public/images/gallery03.jpg",
+    src: "/images/gallery03.jpg",
     alt: "Coffee beans",
     caption: "Premium Beans",
   },
   {
-    src: "../public/images/gallery04.jpg",
+    src: "/images/gallery04.jpg",
     alt: "Latte art",
     caption: "Artisanal Touch",
   },
   {
-    src: "../public/images/gallery05.jpg",
+    src: "/images/gallery05.jpg",
     alt: "Coffee and pastries",
     caption: "Fresh Delights",
   },
   {
-    src: "../public/images/gallery06.jpg",
+    src: "/images/gallery06.jpg",
     alt: "Coffee shop atmosphere",
     caption: "Warm Ambiance",
   },

@@ -89,7 +89,7 @@ const ContactSection = () => {
           </div>
           <div className="rounded-lg overflow-hidden shadow-md h-96">
             <img
-              src="../public/images/visitus.jpg"
+              src="/images/visitus.jpg"
               alt="Coffee shop interior with customers"
               className="w-full h-full object-cover"
             />
